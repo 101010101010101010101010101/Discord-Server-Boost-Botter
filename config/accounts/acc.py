@@ -9,5 +9,5 @@ for accounts in accounts:
     breack()
     
   else if accoutns.empty{
-    print'no account foudn'
+    print'no account found'
   }
